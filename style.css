@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+body{background-image: linear-gradient(140deg, #C9EEFF, #0F6292, #002B5B);height: 100vh;}
+
+
+
+.wraper__banner img{
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    max-height: 600px;
+    position: absolute;
+    top: 0;
+}
+
+.bellts{
+    display: inline-block;
+    background-color: #5e5b5b;
+    border-radius: 100%;
+    border: 1px solid black;
+    width: 1rem;
+    height: 1rem;
+    position: relative;
+    top: 610px;
+    left: 50%;
+}
